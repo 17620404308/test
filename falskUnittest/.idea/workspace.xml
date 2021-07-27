@@ -43,14 +43,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\falskUnittest\common" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\git\falskUnittest\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.users">
+  <component name="RunManager" selected="Python.read_excel">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="falskUnittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="falskUnittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\git\falskUnittest\config\settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/read_excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,10 +118,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_register.TestRegister" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="falskUnittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register.TestRegister&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_register.TestRegister.test_register" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="falskUnittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register.TestRegister.test_register&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_register.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="falskUnittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_register.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.read_excel" />
+        <item itemvalue="Python tests.Unittests in test_register.py" />
+        <item itemvalue="Python tests.Unittests for test_register.TestRegister.test_register" />
+        <item itemvalue="Python tests.Unittests for test_register.TestRegister" />
         <item itemvalue="Python.users" />
-        <item itemvalue="Python.settings" />
       </list>
     </recent_temporary>
   </component>
@@ -142,24 +191,45 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1260" height="191" key="GridCell.Tab.0.bottom" timestamp="1627317648909">
+    <state width="1260" height="240" key="GridCell.Tab.0.bottom" timestamp="1627399696553">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="191" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627317648909" />
-    <state width="1260" height="191" key="GridCell.Tab.0.center" timestamp="1627317648909">
+    <state width="1260" height="240" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.0.center" timestamp="1627399696553">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="191" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1627317648909" />
-    <state width="1260" height="191" key="GridCell.Tab.0.left" timestamp="1627317648909">
+    <state width="1260" height="240" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.0.left" timestamp="1627399696553">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="191" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1627317648909" />
-    <state width="1260" height="191" key="GridCell.Tab.0.right" timestamp="1627317648909">
+    <state width="1260" height="240" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.0.right" timestamp="1627399696553">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="191" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1627317648909" />
+    <state width="1260" height="240" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.1.bottom" timestamp="1627399696554">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1260" height="240" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627399696554" />
+    <state width="1260" height="240" key="GridCell.Tab.1.center" timestamp="1627399696553">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1260" height="240" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.1.left" timestamp="1627399696553">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1260" height="240" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.1.right" timestamp="1627399696553">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1260" height="240" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state x="448" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627400287648">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="448" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.770@0.0.1280.770" timestamp="1627400287648" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -168,6 +238,31 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

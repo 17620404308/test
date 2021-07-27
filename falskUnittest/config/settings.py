@@ -15,4 +15,4 @@ REPORT_PATH = os.path.join(BASE_PATH, "report")
 if not os.path.exists(REPORT_PATH):
     os.mkdir(REPORT_PATH)
 # 定义Excel路径
-EXCEL_PATH = os.path.join(BASE_PATH, "data", "user.xlsx")
+EXCEL_PATH = os.path.join(BASE_PATH, "data", "users.xlsx")
