@@ -54,7 +54,7 @@
       <recent name="D:\git\falskUnittest\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.read_excel">
+  <component name="RunManager" selected="Python tests.Unittests in test_register.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="falskUnittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.read_excel" />
         <item itemvalue="Python tests.Unittests in test_register.py" />
         <item itemvalue="Python tests.Unittests for test_register.TestRegister.test_register" />
-        <item itemvalue="Python tests.Unittests for test_register.TestRegister" />
         <item itemvalue="Python.users" />
+        <item itemvalue="Python.read_excel" />
+        <item itemvalue="Python tests.Unittests for test_register.TestRegister" />
       </list>
     </recent_temporary>
   </component>
@@ -194,38 +194,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1260" height="240" key="GridCell.Tab.0.bottom" timestamp="1627399696553">
+    <state width="1260" height="263" key="GridCell.Tab.0.bottom" timestamp="1627483389557">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
-    <state width="1260" height="240" key="GridCell.Tab.0.center" timestamp="1627399696553">
+    <state width="1260" height="263" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627483389557" />
+    <state width="1260" height="263" key="GridCell.Tab.0.center" timestamp="1627483389556">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
-    <state width="1260" height="240" key="GridCell.Tab.0.left" timestamp="1627399696553">
+    <state width="1260" height="263" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1627483389556" />
+    <state width="1260" height="263" key="GridCell.Tab.0.left" timestamp="1627483389556">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
-    <state width="1260" height="240" key="GridCell.Tab.0.right" timestamp="1627399696553">
+    <state width="1260" height="263" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1627483389556" />
+    <state width="1260" height="263" key="GridCell.Tab.0.right" timestamp="1627483389557">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
-    <state width="1260" height="240" key="GridCell.Tab.1.bottom" timestamp="1627399696554">
+    <state width="1260" height="263" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1627483389557" />
+    <state width="1260" height="240" key="GridCell.Tab.1.bottom" timestamp="1627481159052">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627399696554" />
-    <state width="1260" height="240" key="GridCell.Tab.1.center" timestamp="1627399696553">
+    <state width="1260" height="240" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1627481159052" />
+    <state width="1260" height="240" key="GridCell.Tab.1.center" timestamp="1627481159052">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
-    <state width="1260" height="240" key="GridCell.Tab.1.left" timestamp="1627399696553">
+    <state width="1260" height="240" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1627481159052" />
+    <state width="1260" height="240" key="GridCell.Tab.1.left" timestamp="1627481159052">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
-    <state width="1260" height="240" key="GridCell.Tab.1.right" timestamp="1627399696553">
+    <state width="1260" height="240" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1627481159052" />
+    <state width="1260" height="240" key="GridCell.Tab.1.right" timestamp="1627481159052">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1260" height="240" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1627399696553" />
+    <state width="1260" height="240" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1627481159052" />
     <state x="448" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627400287648">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -253,16 +253,6 @@
           <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
           <line>26</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_register.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

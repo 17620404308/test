@@ -1,0 +1,24 @@
+[2021-07-28 21:47:46,236] - test_register.py ] - [DEBUG]: test_register:29 , 【用例名】 正常场景 == >> 用户ID ：1, 用户名 ：hqq，密码 ：123456
+[2021-07-28 21:47:46,255] - test_register.py ] - [DEBUG]: test_register:29 , 【用例名】 用户名已存在 == >> 用户ID ：2, 用户名 ：huang，密码 ：123456
+[2021-07-28 21:47:46,270] - test_register.py ] - [DEBUG]: test_register:29 , 【用例名】 输入的性别有误 == >> 用户ID ：3, 用户名 ：ww，密码 ：aA123456
+[2021-07-28 21:48:09,713] - test_register.py ] - [DEBUG]: test_register:29 , 【用例名】 正常场景 == >> 用户ID ：1, 用户名 ：hqq，密码 ：123456
+[2021-07-28 21:48:09,729] - test_register.py ] - [DEBUG]: test_register:29 , 【用例名】 用户名已存在 == >> 用户ID ：2, 用户名 ：huang，密码 ：123456
+[2021-07-28 21:48:09,754] - test_register.py ] - [DEBUG]: test_register:29 , 【用例名】 输入的性别有误 == >> 用户ID ：3, 用户名 ：ww，密码 ：aA123456
+[2021-07-28 21:58:27,776] - test_register.py ] - [DEBUG]: test_register:28 , 【用例名】 正常场景 == >>  用户名 ：hqq，密码 ：123456
+[2021-07-28 21:58:27,794] - test_register.py ] - [DEBUG]: test_register:28 , 【用例名】 用户名已存在 == >>  用户名 ：huang，密码 ：123456
+[2021-07-28 21:58:27,810] - test_register.py ] - [DEBUG]: test_register:28 , 【用例名】 输入的性别有误 == >>  用户名 ：ww，密码 ：aA123456
+[2021-07-28 22:00:14,951] - test_register.py ] - [DEBUG]: test_register:28 , 【用例名】 正常场景 == >>  用户名 ：hqq，密码 ：123456
+[2021-07-28 22:00:14,969] - test_register.py ] - [DEBUG]: test_register:28 , 【用例名】 用户名已存在 == >>  用户名 ：huang，密码 ：123456
+[2021-07-28 22:00:14,984] - test_register.py ] - [DEBUG]: test_register:28 , 【用例名】 输入的性别有误 == >>  用户名 ：ww，密码 ：aA123456
+[2021-07-28 22:31:18,373] - test_register.py ] - [DEBUG]: test_register:34 , 登录成功
+[2021-07-28 22:31:18,394] - test_register.py ] - [DEBUG]: test_register:34 , 登录成功
+[2021-07-28 22:31:18,412] - test_register.py ] - [DEBUG]: test_register:36 , 登录失败
+[2021-07-28 22:41:18,224] - test_register.py ] - [DEBUG]: test_register:37 , 登录失败
+[2021-07-28 22:41:18,249] - test_register.py ] - [DEBUG]: test_register:37 , 登录失败
+[2021-07-28 22:41:18,271] - test_register.py ] - [DEBUG]: test_register:37 , 登录失败
+[2021-07-28 22:42:00,670] - test_register.py ] - [DEBUG]: test_register:37 , 登录失败
+[2021-07-28 22:42:00,701] - test_register.py ] - [DEBUG]: test_register:37 , 登录失败
+[2021-07-28 22:42:00,725] - test_register.py ] - [DEBUG]: test_register:37 , 登录失败
+[2021-07-28 22:43:10,518] - test_register.py ] - [DEBUG]: test_register:35 , 登录成功
+[2021-07-28 22:43:10,536] - test_register.py ] - [DEBUG]: test_register:35 , 登录成功
+[2021-07-28 22:43:10,550] - test_register.py ] - [DEBUG]: test_register:35 , 登录成功

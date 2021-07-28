@@ -1,5 +1,6 @@
 from config.settings import BASE_URL
 import requests
+import json
 class Users():
     def __init__(self):
         self.baseUrl = BASE_URL
@@ -13,13 +14,14 @@ class Users():
     def user_register(self,username,password,sex,tel,addr):
         '''注册用户'''
         userUrl = self.baseUrl+'/register'
-        body = {"username": username, "password": password, "sex": sex, "telephone":tel, "address": addr}
+        body =json.dumps({"username": username, "password": password, "sex": sex, "telephone":tel, "address": addr})
         res = requests.post(url = userUrl,headers = self.headers,data = body)
-        return res.json()
+
+        return res
 
 if __name__ =='__main__':
     user = Users()
-    res = user.getUsers()
+    res = user.user_register()
     print(res)
 
 

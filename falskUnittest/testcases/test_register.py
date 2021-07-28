@@ -21,15 +21,17 @@ class TestRegister(unittest.TestCase):
     # @ddt.unpack
     def test_register(self, dict_data):
         """测试数据：{0}"""
-        description, userId, username, passwd ,sex,tel,addr= dict_data["description"], dict_data["userId"],  dict_data["username"], dict_data["passwd"],dict_data['sex'],dict_data['tel'],dict_data=['addr']
-        print(description)
-        print(userId)
+        description,code, username, passwd ,sex,tel,addr,msg= dict_data["description"],dict_data["code"],  dict_data["username"], dict_data["passwd"],dict_data['sex'],dict_data['tel'],dict_data['addr'],dict_data["msg"]
+
+
         result = self.user.user_register(username, passwd,sex,tel,addr)
-        log.logger.debug("【用例名】 {} == >> 用户ID ：{}, 用户名 ：{}，密码 ：{}".format(description, userId, username, passwd))
-        log.logger.debug("error_code ==>> 期望结果：{}， 实际结果：{}".format(0, result["error_code"]))
+        result = result.json()
+        print(result)
+        # log.logger.debug("【用例名】 {} == >>  用户名 ：{}，密码 ：{}".format(description, username, passwd))
+        # log.logger.debug("error_code ==>> 期望结果：{}， 实际结果：{}".format(0, result["error_code"]))
         try:
-            self.assertEqual(result["code"], 0)
-            # self.assertEqual(result["msg"]["userId"], int(userId))
+            self.assertEqual(result["code"], int(code))
+            self.assertEqual(result["msg"],msg )
             log.logger.debug("登录成功")
         except AssertionError as e:
             log.logger.debug("登录失败")
@@ -37,3 +39,4 @@ class TestRegister(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
